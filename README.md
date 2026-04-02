@@ -37,4 +37,7 @@ I build and ship products at the intersection of **performance marketing**, **da
 
 ---
 
+### my Gitcity!
+[![My GitCity Skyline](https://gitcity.natrajx.in/api/svg?u=rcphq&theme=noir)](https://gitcity.natrajx.in/rcphq)
+
 <sub>Last updated April 2026</sub>
